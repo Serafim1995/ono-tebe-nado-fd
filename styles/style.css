@@ -32,7 +32,8 @@
 }
 
 /* логотип */
-.header__logo{
+
+.header__logo {
   display: block;
   width: 136px;
   height: 106px;
